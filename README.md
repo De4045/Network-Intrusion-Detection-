@@ -55,3 +55,15 @@ Network-Intrusion-Detection/
 git clone https://github.com/De4045/Network-Intrusion-Detection.git
 cd Network-Intrusion-Detection
 jupyter notebook
+
+##  Future Scope
+- Real-time intrusion detection
+- Deep learning models
+- Web dashboard (Streamlit)
+- Alert system
+
+---
+
+##  Author
+Deepika Vats  
+BCA | AI & ML Enthusiast
